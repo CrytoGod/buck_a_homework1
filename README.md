@@ -1,4 +1,4 @@
-# Red Lanters
+# Red Lanterns
 "Red Lanterns: Igniting Excellence Together"
 
 ## Hello! I'm Amari Buck, and I'd like to share a bit about myself. This repository serves as a glimpse into my background, interests, and experiences. Feel free to explore and get to know me better.
@@ -22,16 +22,10 @@
 5. Zelda
 6. Pokemon
 
-![Ninja Storm 4](img/ns4.jpeg)
-![Pokemon Unite](img/unite.jpeg)
-
 https://github.com/CrytoGod/buck_a_homework1/assets/145210773/6bb43e86-c40a-4389-b430-429048d709ba
 
 https://github.com/CrytoGod/buck_a_homework1/assets/145210773/e6b6ae5c-8184-4fd5-9d27-80b5b4b77fe7
 
-&copy; Repo-Collab 2023.
-
---------------------------------------------
 
 # Member 2
 
