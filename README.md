@@ -31,6 +31,7 @@ https://github.com/CrytoGod/buck_a_homework1/assets/145210773/e6b6ae5c-8184-4fd5
 
 https://github.com/CrytoGod/buck_a_homework1/assets/145210773/4d99a4f4-d6f7-41ab-9ebe-95a6f888041e
 
+
 --------------------------------------------
 
 # Member 2
@@ -63,3 +64,4 @@ https://github.com/CrytoGod/buck_a_homework1/assets/145210773/4d99a4f4-d6f7-41ab
 
 ![a neon red mustang](img/neonred.jpg)
 ![a lemon sauced chicken meal](img/lemonchicken.jpg)
+
