@@ -61,4 +61,6 @@ https://github.com/CrytoGod/buck_a_homework1/assets/145210773/e6b6ae5c-8184-4fd5
 ![a neon red mustang](img/neonred.jpg)
 ![a lemon sauced chicken meal](img/lemonchicken.jpg)
 
+https://github.com/CrytoGod/buck_a_homework1/assets/145210773/6973aa17-69d9-4cae-bcf7-8e09a8222dd9
+
 &copy; Repo-Collab 2023.
