@@ -26,10 +26,13 @@ https://github.com/CrytoGod/buck_a_homework1/assets/145210773/6bb43e86-c40a-4389
 
 https://github.com/CrytoGod/buck_a_homework1/assets/145210773/e6b6ae5c-8184-4fd5-9d27-80b5b4b77fe7
 
+![Ninja Storm 4](img/njs4.jpeg)
+![Pokemon Unite](img/unite.jpeg)
+
 
 # Member 2
 
-## My name is Emmanuel, I come from the western part of africa, Nigeria. <br> I am a christian. <br>My favorite colour is Red.
+## My name is Emmanuel, I come from the western part of Africa, Nigeria. <br> I am a Christian. <br>My favorite color is Red.
 
 
 **Hobbies:** Gaming, Movies, Watching Tech, Food, cars and bike videos
