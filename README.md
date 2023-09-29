@@ -25,6 +25,12 @@
 ![Ninja Storm 4](img/ns4.jpeg)
 ![Pokemon Unite](img/unite.jpeg)
 
+https://github.com/CrytoGod/buck_a_homework1/assets/145210773/6bb43e86-c40a-4389-b430-429048d709ba
+
+https://github.com/CrytoGod/buck_a_homework1/assets/145210773/e6b6ae5c-8184-4fd5-9d27-80b5b4b77fe7
+
+https://github.com/CrytoGod/buck_a_homework1/assets/145210773/4d99a4f4-d6f7-41ab-9ebe-95a6f888041e
+
 --------------------------------------------
 
 # Member 2
