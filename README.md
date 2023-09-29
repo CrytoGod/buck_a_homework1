@@ -30,3 +30,38 @@ https://github.com/CrytoGod/buck_a_homework1/assets/145210773/6bb43e86-c40a-4389
 https://github.com/CrytoGod/buck_a_homework1/assets/145210773/e6b6ae5c-8184-4fd5-9d27-80b5b4b77fe7
 
 https://github.com/CrytoGod/buck_a_homework1/assets/145210773/4d99a4f4-d6f7-41ab-9ebe-95a6f888041e
+
+
+--------------------------------------------
+
+# Member 2
+
+## My name is Emmanuel, I come from the western part of africa, Nigeria. <br> I am a christian. <br>My favorite colour is Red.
+
+
+**Hobbies:** Gaming, Movies, Watching Tech, Food, cars and bike videos
+
+
+![a red theme gaming setup](img/gamesetup.jpg)
+
+**Favourite Anime:**
+1. Demon Slayer
+2. Cowboy Bebop
+3. Hunter X Hunter
+4. Attack on Titans
+5. Black Clover
+
+
+[My favorite website](https://www.youtube.com)
+
+**Favourite Video Games:**
+1. Need For Speed
+2. Mortal Kombat
+3. Grand Theft Auto
+4. God of war 
+5. Devil May Cry
+6. Grand Turismo
+
+![a neon red mustang](img/neonred.jpg)
+![a lemon sauced chicken meal](img/lemonchicken.jpg)
+
